@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          생성되었다.
+          생성됨.
         </p>
         <a
           className="App-link"
